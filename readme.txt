@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-23232
-=======
-jkjsdkjaskdj
->>>>>>> feature1
+23232jkjsdkjaskdj
